@@ -1,5 +1,3 @@
-# SkyDumps-Reset
-
 # SkyDumps Reset (Imaginators)
 
 This page resets Skylanders Imaginators dumps to their factory default state.
